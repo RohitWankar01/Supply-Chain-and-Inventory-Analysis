@@ -1,6 +1,5 @@
 # 📦 Supply Chain and Inventory Analysis
 
-**Data Analytics Project using Python**
 
 # 📌 Project Overview
 
